@@ -1,0 +1,28 @@
+{
+    "id": "io.shields.cloudronapp",
+    "title": "Shields",
+    "author": "Shields.io",
+    "description": "file://DESCRIPTION.md",
+    "tagline": "Concise, consistent, and legible badges",
+    "version": "1.0.0",
+    "upstreamVersion": "server-2025-04-03",
+    "healthCheckPath": "/",
+    "httpPort": 80,
+    "addons": {
+        "localstorage": {}
+    },
+    "manifestVersion": 2,
+    "website": "https://shields.io",
+    "contactEmail": "support@cloudron.io",
+    "icon": "file://logo.png",
+    "memoryLimit": 1073741824,
+    "tags": [
+        "bitly",
+        "url",
+        "shortener",
+        "polr",
+        "yourls"
+    ],
+    "documentationUrl": "https://docs.cloudron.io/apps/shields/",
+    "minBoxVersion": "8.2.0"
+}
